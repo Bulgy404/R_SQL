@@ -1,0 +1,201 @@
+"name","rating","genre","year","released","score","votes","director","writer","star","country","budget","gross","company","runtime"
+"Mad Max: Fury Road","R","Action",2015,"May 15, 2015 (United States)",8.1,912000,"George Miller","George Miller","Tom Hardy","Australia",1.5e+08,375658750,"Warner Bros.",120
+"Avengers: Age of Ultron","PG-13","Action",2015,"May 1, 2015 (United States)",7.3,777000,"Joss Whedon","Joss Whedon","Robert Downey Jr.","United States",2.5e+08,1402809540,"Marvel Studios",141
+"Crimson Peak","R","Drama",2015,"October 16, 2015 (United States)",6.5,136000,"Guillermo del Toro","Guillermo del Toro","Mia Wasikowska","Canada",5.5e+07,74679822,"Double Dare You (DDY)",119
+"Furious 7","PG-13","Action",2015,"April 3, 2015 (United States)",7.1,370000,"James Wan","Chris Morgan","Vin Diesel","United States",1.9e+08,1515341399,"Universal Pictures",137
+"The Hateful Eight","R","Crime",2015,"December 30, 2015 (United States)",7.8,539000,"Quentin Tarantino","Quentin Tarantino","Samuel L. Jackson","United States",4.4e+07,156480177,"Visiona Romantica",168
+"Ant-Man","PG-13","Action",2015,"July 17, 2015 (United States)",7.3,595000,"Peyton Reed","Edgar Wright","Paul Rudd","United States",1.3e+08,519311965,"Gary Sanchez Productions",117
+"Fifty Shades of Grey","R","Drama",2015,"February 13, 2015 (United States)",4.1,304000,"Sam Taylor-Johnson","Kelly Marcel","Dakota Johnson","United States",4e+07,569651467,"Focus Features",125
+"Sicario","R","Action",2015,"October 2, 2015 (United States)",7.6,386000,"Denis Villeneuve","Taylor Sheridan","Emily Blunt","United States",3e+07,84872444,"Lionsgate",121
+"The Witch","R","Drama",2015,"February 19, 2016 (United States)",6.9,218000,"Robert Eggers","Robert Eggers","Anya Taylor-Joy","Canada",4e+06,40423945,"Parts and Labor",92
+"The Big Short","R","Biography",2015,"December 23, 2015 (United States)",7.8,381000,"Adam McKay","Charles Randolph","Christian Bale","United States",2.8e+07,133440870,"Paramount Pictures",130
+"Jurassic World","PG-13","Action",2015,"June 12, 2015 (United States)",7,593000,"Colin Trevorrow","Rick Jaffa","Chris Pratt","United States",1.5e+08,1670516444,"Universal Pictures",124
+"The Revenant","R","Action",2015,"January 8, 2016 (United States)",8,729000,"Alejandro G. Iñárritu","Mark L. Smith","Leonardo DiCaprio","United States",1.35e+08,532950503,"New Regency Productions",156
+"The Martian","PG-13","Adventure",2015,"October 2, 2015 (United States)",8,783000,"Ridley Scott","Drew Goddard","Matt Damon","United Kingdom",1.08e+08,630162448,"Twentieth Century Fox",144
+"Room","R","Drama",2015,"January 22, 2016 (United States)",8.1,386000,"Lenny Abrahamson","Emma Donoghue","Brie Larson","Canada",1.3e+07,35401758,"Element Pictures",118
+"Inside Out","PG","Animation",2015,"June 19, 2015 (United States)",8.1,641000,"Pete Docter","Pete Docter","Amy Poehler","United States",1.75e+08,858848019,"Pixar Animation Studios",95
+"Spotlight","R","Biography",2015,"November 20, 2015 (United States)",8.1,435000,"Tom McCarthy","Josh Singer","Mark Ruffalo","United States",2e+07,98690254,"Participant",129
+"American Ultra","R","Action",2015,"August 21, 2015 (United States)",6.1,87000,"Nima Nourizadeh","Max Landis","Jesse Eisenberg","United States",2.8e+07,27262374,"PalmStar Media",96
+"The Man from U.N.C.L.E.","PG-13","Action",2015,"August 14, 2015 (United States)",7.3,286000,"Guy Ritchie","Guy Ritchie","Henry Cavill","United States",7.5e+07,107045109,"Warner Bros.",116
+"Terminator Genisys","PG-13","Action",2015,"July 1, 2015 (United States)",6.3,264000,"Alan Taylor","Laeta Kalogridis","Arnold Schwarzenegger","United States",1.55e+08,440603537,"Paramount Pictures",126
+"Cinderella","PG","Drama",2015,"March 13, 2015 (United States)",6.9,165000,"Kenneth Branagh","Chris Weitz","Lily James","United States",9.5e+07,542358331,"Allison Shearmur Productions",105
+"Star Wars: Episode VII - The Force Awakens","PG-13","Action",2015,"December 18, 2015 (United States)",7.8,876000,"J.J. Abrams","Lawrence Kasdan","Daisy Ridley","United States",2.45e+08,2069521700,"Lucasfilm",138
+"The Lobster","R","Comedy",2015,"October 16, 2015 (United Kingdom)",7.2,230000,"Yorgos Lanthimos","Yorgos Lanthimos","Colin Farrell","Ireland",NA,15509546,"Film4",119
+"Spectre","PG-13","Action",2015,"November 6, 2015 (United States)",6.8,393000,"Sam Mendes","John Logan","Daniel Craig","United Kingdom",2.45e+08,880681519,"B24",148
+"High-Rise","R","Drama",2015,"April 28, 2016 (United States)",5.6,40000,"Ben Wheatley","Amy Jump","Tom Hiddleston","United Kingdom",NA,4289074,"HanWay Films",119
+"Legend","R","Biography",2015,"November 20, 2015 (United States)",6.9,164000,"Brian Helgeland","Brian Helgeland","Tom Hardy","United Kingdom",3e+07,42972994,"Cross Creek Pictures",132
+"Chappie","R","Action",2015,"March 6, 2015 (United States)",6.8,235000,"Neill Blomkamp","Neill Blomkamp","Sharlto Copley","South Africa",4.9e+07,102811889,"Columbia Pictures",120
+"Knock Knock","R","Drama",2015,"October 9, 2015 (United States)",4.9,87000,"Eli Roth","Eli Roth","Keanu Reeves","United States",2500000,5567103,"Black Bear Pictures",99
+"In the Heart of the Sea","PG-13","Action",2015,"December 11, 2015 (United States)",6.9,128000,"Ron Howard","Charles Leavitt","Chris Hemsworth","United States",1e+08,93920758,"Warner Bros.",122
+"The Bronze","R","Comedy",2015,"March 18, 2016 (United States)",6.1,11000,"Bryan Buckley","Melissa Rauch","Melissa Rauch","United States",3500000,615816,"Duplass Brothers Productions",100
+"The Intern","PG-13","Comedy",2015,"September 25, 2015 (United States)",7.1,231000,"Nancy Meyers","Nancy Meyers","Robert De Niro","United States",3.5e+07,194564672,"Waverly Films",121
+"The Hunger Games: Mockingjay - Part 2","PG-13","Action",2015,"November 20, 2015 (United States)",6.6,297000,"Francis Lawrence","Peter Craig","Jennifer Lawrence","United States",1.6e+08,658344137,"Lionsgate",137
+"Everest","PG-13","Action",2015,"September 25, 2015 (United States)",7.1,205000,"Baltasar Kormákur","William Nicholson","Jason Clarke","United Kingdom",5.5e+07,203427584,"Working Title Films",121
+"Blackhat","R","Action",2015,"January 16, 2015 (United States)",5.4,56000,"Michael Mann","Morgan Davis Foehl","Chris Hemsworth","United States",7e+07,19652057,"Forward Pass",133
+"Spy","R","Action",2015,"June 5, 2015 (United States)",7,234000,"Paul Feig","Paul Feig","Melissa McCarthy","United States",6.5e+07,235666219,"Twentieth Century Fox",120
+"Fantastic Four","PG-13","Action",2015,"August 7, 2015 (United States)",4.2,156000,"Josh Trank","Jeremy Slater","Miles Teller","United States",1.2e+08,167882881,"Twentieth Century Fox",100
+"Mission: Impossible - Rogue Nation","PG-13","Action",2015,"July 31, 2015 (United States)",7.4,350000,"Christopher McQuarrie","Bruce Geller","Tom Cruise","United States",1.5e+08,682716636,"Paramount Pictures",131
+"The Visit","PG-13","Horror",2015,"September 11, 2015 (United States)",6.2,119000,"M. Night Shyamalan","M. Night Shyamalan","Olivia DeJonge","United States",5e+06,98450062,"Blinding Edge Pictures",94
+"Vacation","R","Adventure",2015,"July 29, 2015 (United States)",6.1,103000,"John Francis Daley","Jonathan Goldstein","Ed Helms","United States",3.1e+07,107228221,"BenderSpink",99
+"Creed","PG-13","Drama",2015,"November 25, 2015 (United States)",7.6,254000,"Ryan Coogler","Ryan Coogler","Michael B. Jordan","United States",3.5e+07,173567581,"Metro-Goldwyn-Mayer (MGM)",133
+"The Age of Adaline","PG-13","Drama",2015,"April 24, 2015 (United States)",7.2,160000,"Lee Toland Krieger","J. Mills Goodloe","Blake Lively","United States",2.5e+07,65663276,"Lakeshore Entertainment",112
+"Black Mass","R","Biography",2015,"September 18, 2015 (United States)",6.9,171000,"Scott Cooper","Mark Mallouk","Johnny Depp","United States",5.3e+07,99775678,"Cross Creek Pictures",123
+"Focus","R","Comedy",2015,"February 27, 2015 (United States)",6.6,226000,"Glenn Ficarra","Glenn Ficarra","Will Smith","United States",50100000,158762963,"Kramer & Sigman Films",105
+"Home","PG","Animation",2015,"March 27, 2015 (United States)",6.6,95000,"Tim Johnson","Tom J. Astle","Jim Parsons","United States",1.35e+08,386041607,"DreamWorks Animation",94
+"Jupiter Ascending","PG-13","Action",2015,"February 6, 2015 (United States)",5.3,182000,"Lana Wachowski","Lilly Wachowski","Channing Tatum","United States",1.76e+08,183887723,"Warner Bros.",127
+"I Saw the Light","R","Biography",2015,"April 1, 2016 (United States)",5.8,6700,"Marc Abraham","Marc Abraham","Tom Hiddleston","United States",1.3e+07,1767963,"BRON Studios",123
+"Minions","PG","Animation",2015,"July 10, 2015 (United States)",6.4,218000,"Kyle Balda","Brian Lynch","Sandra Bullock","United States",7.4e+07,1159444662,"Illumination Entertainment",91
+"Pitch Perfect 2","PG-13","Comedy",2015,"May 15, 2015 (United States)",6.4,146000,"Elizabeth Banks","Kay Cannon","Anna Kendrick","United States",2.9e+07,287144079,"Brownstone Productions (II)",115
+"San Andreas","PG-13","Action",2015,"May 29, 2015 (United States)",6.1,219000,"Brad Peyton","Carlton Cuse","Dwayne Johnson","United States",1.1e+08,473990832,"New Line Cinema",114
+"Trainwreck","R","Comedy",2015,"July 17, 2015 (United States)",6.2,132000,"Judd Apatow","Amy Schumer","Amy Schumer","United States",3.5e+07,140795793,"Universal Pictures",125
+"Tomorrowland","PG","Action",2015,"May 22, 2015 (United States)",6.4,175000,"Brad Bird","Damon Lindelof","George Clooney","United States",1.9e+08,209035668,"Walt Disney Pictures",130
+"Bridge of Spies","PG-13","Drama",2015,"October 16, 2015 (United States)",7.6,295000,"Steven Spielberg","Matt Charman","Tom Hanks","United States",4e+07,165478348,"Dreamworks Pictures",142
+"The Danish Girl","R","Biography",2015,"January 22, 2016 (United States)",7.1,170000,"Tom Hooper","Lucinda Coxon","Eddie Redmayne","United Kingdom",1.5e+07,64191523,"Working Title Films",119
+"The Divergent Series: Insurgent","PG-13","Action",2015,"March 20, 2015 (United States)",6.2,223000,"Robert Schwentke","Brian Duffield","Shailene Woodley","United States",1.1e+08,297002527,"Summit Entertainment",119
+"Straight Outta Compton","R","Biography",2015,"August 14, 2015 (United States)",7.8,185000,"F. Gary Gray","Jonathan Herman","O'Shea Jackson Jr.","United States",2.8e+07,201634991,"Universal Pictures",147
+"Carol","R","Drama",2015,"January 15, 2016 (United States)",7.2,120000,"Todd Haynes","Phyllis Nagy","Cate Blanchett","United Kingdom",11800000,40272135,"The Weinstein Company",118
+"No Escape","R","Action",2015,"August 26, 2015 (United States)",6.8,81000,"John Erick Dowdle","John Erick Dowdle","Lake Bell","United States",16200000,54418872,"Bold Films",103
+"The Boy Next Door","R","Thriller",2015,"January 23, 2015 (United States)",4.7,40000,"Rob Cohen","Barbara Curry","Jennifer Lopez","United States",4e+06,52425855,"Universal Pictures",91
+"Southpaw","R","Action",2015,"July 24, 2015 (United States)",7.4,223000,"Antoine Fuqua","Kurt Sutter","Jake Gyllenhaal","Hong Kong",3e+07,91970827,"Escape Artists",124
+"The Dressmaker","R","Comedy",2015,"October 29, 2015 (Australia)",7.1,56000,"Jocelyn Moorhouse","Rosalie Ham","Kate Winslet","Australia",NA,25003426,"Screen Australia",119
+"Maze Runner: The Scorch Trials","PG-13","Action",2015,"September 18, 2015 (United States)",6.3,230000,"Wes Ball","T.S. Nowlin","Dylan O'Brien","United States",6.1e+07,312296056,"Gotham Group",131
+"Lost and Love","","Drama",2015,"March 20, 2015 (China)",6.4,620,"Sanyuan Peng","Sanyuan Peng","Andy Lau","China",NA,34930177,"Chongqing Film Group",108
+"The Last Witch Hunter","PG-13","Action",2015,"October 23, 2015 (United States)",6,98000,"Breck Eisner","Cory Goodman","Vin Diesel","United States",9e+07,146936910,"Summit Entertainment",106
+"Green Room","R","Horror",2015,"May 13, 2016 (United States)",7,112000,"Jeremy Saulnier","Jeremy Saulnier","Anton Yelchin","United States",5e+06,3769214,"Broad Green Pictures",95
+"Burnt","R","Comedy",2015,"October 30, 2015 (United States)",6.6,110000,"John Wells","Steven Knight","Bradley Cooper","United States",2e+07,36606743,"3 Arts Entertainment",101
+"The Good Dinosaur","PG","Animation",2015,"November 25, 2015 (United States)",6.7,106000,"Peter Sohn","Bob Peterson","Jeffrey Wright","United States",2e+08,332207671,"Pixar Animation Studios",93
+"Far from the Madding Crowd","PG-13","Drama",2015,"May 22, 2015 (United States)",7.1,47000,"Thomas Vinterberg","Thomas Hardy","Carey Mulligan","United Kingdom",NA,30229977,"Fox Searchlight Pictures",119
+"The Invitation","Not Rated","Drama",2015,"April 8, 2016 (United States)",6.6,1e+05,"Karyn Kusama","Phil Hay","Logan Marshall-Green","United States",NA,354835,"Gamechanger Films",100
+"The Gift","R","Drama",2015,"August 7, 2015 (United States)",7,145000,"Joel Edgerton","Joel Edgerton","Jason Bateman","United States",5e+06,58980521,"Blumhouse Productions",108
+"Point Break","PG-13","Action",2015,"December 25, 2015 (United States)",5.3,60000,"Ericson Core","Kurt Wimmer","Edgar Ramírez","China",1.05e+08,133718711,"Alcon Entertainment",114
+"Get Hard","R","Comedy",2015,"March 27, 2015 (United States)",6,127000,"Etan Cohen","Jay Martel","Will Ferrell","United States",4e+07,111711453,"Gary Sanchez Productions",100
+"Hitman: Agent 47","R","Action",2015,"August 21, 2015 (United States)",5.7,87000,"Aleksander Bach","Skip Woods","Rupert Friend","United States",3.5e+07,82347656,"Twentieth Century Fox",96
+"Entourage","R","Comedy",2015,"June 3, 2015 (United States)",6.6,77000,"Doug Ellin","Doug Ellin","Adrian Grenier","United States",3e+07,49263404,"Warner Bros.",104
+"Steve Jobs","R","Biography",2015,"October 23, 2015 (United States)",7.2,160000,"Danny Boyle","Aaron Sorkin","Michael Fassbender","United Kingdom",3e+07,34441873,"Universal Pictures",122
+"Scouts Guide to the Zombie Apocalypse","R","Action",2015,"October 30, 2015 (United States)",6.3,47000,"Christopher Landon","Carrie Lee Wilson","Tye Sheridan","United States",1.5e+07,16137046,"Paramount Pictures",93
+"Hardcore Henry","R","Action",2015,"April 8, 2016 (United States)",6.7,90000,"Ilya Naishuller","Ilya Naishuller","Sharlto Copley","Russia",2e+06,16810562,"Bazelevs Production",96
+"Joy","PG-13","Biography",2015,"December 25, 2015 (United States)",6.6,131000,"David O. Russell","David O. Russell","Jennifer Lawrence","United States",6e+07,101134059,"Fox 2000 Pictures",124
+"Masterminds","PG-13","Biography",2015,"September 30, 2016 (United States)",5.8,52000,"Jared Hess","Chris Bowman","Zach Galifianakis","United States",2.5e+07,29674699,"Broadway Video",95
+"Brooklyn","PG-13","Drama",2015,"November 25, 2015 (United States)",7.5,135000,"John Crowley","Nick Hornby","Saoirse Ronan","United Kingdom",1.1e+07,62402155,"Wildgaze Films",117
+"Youth","R","Comedy",2015,"December 4, 2015 (United States)",7.3,74000,"Paolo Sorrentino","Paolo Sorrentino","Michael Caine","Italy",NA,23459358,"Indigo Film",124
+"Self/less","PG-13","Action",2015,"July 10, 2015 (United States)",6.5,93000,"Tarsem Singh","Àlex Pastor","Ryan Reynolds","United States",2.6e+07,31807156,"Focus Features",117
+"Ted 2","R","Comedy",2015,"June 26, 2015 (United States)",6.3,191000,"Seth MacFarlane","Seth MacFarlane","Mark Wahlberg","United States",6.8e+07,215863606,"Universal Pictures",115
+"Pan","PG","Adventure",2015,"October 9, 2015 (United States)",5.7,62000,"Joe Wright","Jason Fuchs","Levi Miller","United States",1.5e+08,128388320,"Warner Bros.",111
+"Pixels","PG-13","Action",2015,"July 24, 2015 (United States)",5.5,135000,"Chris Columbus","Tim Herlihy","Adam Sandler","United States",8.8e+07,244874809,"Columbia Pictures",105
+"Demolition","R","Comedy",2015,"April 8, 2016 (United States)",7,93000,"Jean-Marc Vallée","Bryan Sipe","Jake Gyllenhaal","United States",1e+07,4366460,"Black Label Media",101
+"Macbeth","R","Drama",2015,"December 11, 2015 (United States)",6.6,54000,"Justin Kurzel","Todd Louiso","Michael Fassbender","United Kingdom",1.5e+07,16322067,"See-Saw Films",113
+"Daddy's Home","PG-13","Comedy",2015,"December 25, 2015 (United States)",6.2,112000,"Sean Anders","Brian Burns","Will Ferrell","United States",5e+07,242786137,"Paramount Pictures",96
+"Run All Night","R","Action",2015,"March 13, 2015 (United States)",6.6,105000,"Jaume Collet-Serra","Brad Ingelsby","Liam Neeson","United States",5e+07,71561644,"Warner Bros.",114
+"Mr. Right","R","Action",2015,"April 8, 2016 (United States)",6.4,52000,"Paco Cabezas","Max Landis","Anna Kendrick","United States",8e+06,607595,"Amasia Entertainment",95
+"Magic Mike XXL","R","Comedy",2015,"July 1, 2015 (United States)",5.6,53000,"Gregory Jacobs","Reid Carolin","Channing Tatum","United States",14800000,117813057,"Warner Bros.",115
+"The DUFF","PG-13","Comedy",2015,"February 20, 2015 (United States)",6.5,87000,"Ari Sandel","Josh A. Cagan","Mae Whitman","United States",8500000,43709744,"CBS Films",101
+"Trumbo","R","Biography",2015,"November 27, 2015 (United States)",7.5,78000,"Jay Roach","John McNamara","Bryan Cranston","United States",1.5e+07,11430025,"Bleecker Street Films",124
+"Hotel Transylvania 2","PG","Animation",2015,"September 25, 2015 (United States)",6.7,113000,"Genndy Tartakovsky","Robert Smigel","Adam Sandler","United States",8e+07,474800000,"Columbia Pictures",89
+"Knight of Cups","R","Drama",2015,"March 4, 2016 (United States)",5.7,26000,"Terrence Malick","Terrence Malick","Christian Bale","United States",NA,1026288,"Dogwood Films",118
+"The Stanford Prison Experiment","R","Biography",2015,"July 17, 2015 (United States)",6.9,40000,"Kyle Patrick Alvarez","Tim Talbott","Ezra Miller","United States",NA,663114,"Coup d'Etat Films",122
+"The Longest Ride","PG-13","Drama",2015,"April 10, 2015 (United States)",7.1,79000,"George Tillman Jr.","Nicholas Sparks","Scott Eastwood","United States",3.4e+07,62944815,"Fox 2000 Pictures",123
+"Victor Frankenstein","PG-13","Drama",2015,"November 25, 2015 (United States)",6,54000,"Paul McGuigan","Max Landis","Daniel Radcliffe","United Kingdom",6.5e+07,34227298,"Davis Entertainment",110
+"Insidious: Chapter 3","PG-13","Horror",2015,"June 5, 2015 (United States)",6.1,97000,"Leigh Whannell","Leigh Whannell","Dermot Mulroney","Canada",1e+07,112983889,"Gramercy Pictures (I)",97
+"Goosebumps","PG","Adventure",2015,"October 16, 2015 (United States)",6.3,83000,"Rob Letterman","Darren Lemke","Jack Black","United States",5.8e+07,158261424,"Sony Pictures Animation",103
+"Aloha","PG-13","Comedy",2015,"May 29, 2015 (United States)",5.4,64000,"Cameron Crowe","Cameron Crowe","Bradley Cooper","United States",3.7e+07,26250020,"Columbia Pictures",105
+"Baahubali: The Beginning","Not Rated","Action",2015,"July 9, 2015 (United States)",8,107000,"S.S. Rajamouli","Vijayendra Prasad","Prabhas","India",18026148,24548038,"Arka Mediaworks",159
+"A Bigger Splash","R","Drama",2015,"May 13, 2016 (United States)",6.4,28000,"Luca Guadagnino","David Kajganich","Tilda Swinton","Italy",NA,7545758,"Frenesy Film Company",125
+"The Wedding Ringer","R","Comedy",2015,"January 16, 2015 (United States)",6.6,72000,"Jeremy Garelick","Jeremy Garelick","Kevin Hart","United States",2.3e+07,79799880,"LStar Capital",101
+"Sisters","R","Comedy",2015,"December 18, 2015 (United States)",6,64000,"Jason Moore","Paula Pell","Amy Poehler","United States",3e+07,105011053,"Little Stranger",118
+"Secret in Their Eyes","PG-13","Crime",2015,"November 20, 2015 (United States)",6.3,46000,"Billy Ray","Billy Ray","Chiwetel Ejiofor","United States",19500000,34854990,"IM Global",111
+"Irrational Man","R","Comedy",2015,"August 7, 2015 (United States)",6.6,60000,"Woody Allen","Woody Allen","Joaquin Phoenix","United States",1.1e+07,27391084,"Gravier Productions",95
+"Wild Card","R","Action",2015,"January 14, 2015 (Belgium)",5.6,53000,"Simon West","William Goldman","Jason Statham","United States",3e+07,6738764,"Lionsgate",92
+"Paper Towns","PG-13","Adventure",2015,"July 24, 2015 (United States)",6.2,98000,"Jake Schreier","Scott Neustadter","Nat Wolff","United States",1.2e+07,85512300,"Fox 2000 Pictures",109
+"The Lady in the Van","PG-13","Biography",2015,"February 26, 2016 (United States)",6.7,27000,"Nicholas Hytner","Alan Bennett","Maggie Smith","United Kingdom",6e+06,41387687,"BBC Films",104
+"The SpongeBob Movie: Sponge Out of Water","PG","Animation",2015,"February 6, 2015 (United States)",6,51000,"Paul Tibbitt","Jonathan Aibel","Tom Kenny","United States",7.4e+07,325186032,"Paramount Animation",92
+"Child 44","R","Crime",2015,"April 17, 2015 (United Kingdom)",6.5,68000,"Daniel Espinosa","Richard Price","Tom Hardy","Czech Republic",5e+07,12951093,"Summit Entertainment",137
+"The Wave","R","Action",2015,"August 28, 2015 (Norway)",6.7,35000,"Roar Uthaug","John Kåre Raake","Kristoffer Joner","Norway",NA,12975143,"Fantefilm",105
+"A Man Called Ove","PG-13","Comedy",2015,"September 30, 2016 (United States)",7.7,50000,"Hannes Holm","Hannes Holm","Rolf Lassgård","Sweden",NA,30692889,"Tre Vänner Produktion AB",116
+"Beasts of No Nation","TV-MA","Drama",2015,"October 16, 2015 (United States)",7.7,76000,"Cary Joji Fukunaga","Cary Joji Fukunaga","Abraham Attah","United States",6e+06,90777,"Red Crown Productions",137
+"Me and Earl and the Dying Girl","PG-13","Comedy",2015,"July 1, 2015 (United States)",7.7,126000,"Alfonso Gomez-Rejon","Jesse Andrews","Thomas Mann","United States",8e+06,9074749,"Fox Searchlight Pictures",105
+"Sleeping with Other People","R","Comedy",2015,"August 12, 2015 (Belgium)",6.5,42000,"Leslye Headland","Leslye Headland","Jason Sudeikis","United States",NA,3224947,"Gloria Sanchez Productions",101
+"Concussion","PG-13","Biography",2015,"December 25, 2015 (United States)",7.1,89000,"Peter Landesman","Peter Landesman","Will Smith","United Kingdom",3.5e+07,48623572,"LStar Capital",123
+"The Diary of a Teenage Girl","R","Comedy",2015,"August 28, 2015 (United States)",6.9,30000,"Marielle Heller","Phoebe Gloeckner","Bel Powley","United States",2e+06,1775133,"Caviar",102
+"Mustang","PG-13","Drama",2015,"June 17, 2015 (France)",7.6,37000,"Deniz Gamze Ergüven","Deniz Gamze Ergüven","Günes Sensoy","Turkey",NA,5274664,"CG Cinéma",97
+"The Walk","PG","Action",2015,"October 9, 2015 (United States)",7.3,123000,"Robert Zemeckis","Robert Zemeckis","Joseph Gordon-Levitt","United States",3.5e+07,61181942,"Sony Pictures Entertainment (SPE)",123
+"Tangerine","R","Comedy",2015,"July 10, 2015 (United States)",7.1,28000,"Sean Baker","Sean Baker","Kitana Kiki Rodriguez","United States",1e+05,828874,"Duplass Brothers Productions",88
+"A Walk in the Woods","R","Adventure",2015,"September 2, 2015 (United States)",6.4,26000,"Ken Kwapis","Michael Arndt","Robert Redford","United States",8e+06,37461274,"Route One Entertainment",104
+"Sinister 2","R","Horror",2015,"August 21, 2015 (United States)",5.3,50000,"Ciarán Foy","Scott Derrickson","James Ransone","United States",1e+07,53329150,"Entertainment One",97
+"Summertime","Not Rated","Drama",2015,"August 19, 2015 (Belgium)",6.7,4500,"Catherine Corsini","Catherine Corsini","Cécile de France","France",NA,3778938,"Chaz Productions",105
+"Anomalisa","R","Animation",2015,"March 11, 2016 (United Kingdom)",7.3,68000,"Duke Johnson","Charlie Kaufman","David Thewlis","United Kingdom",8e+06,5659286,"Paramount Animation",90
+"The Blackcoat's Daughter","R","Horror",2015,"February 16, 2017 (United States)",5.9,20000,"Oz Perkins","Oz Perkins","Emma Roberts","Canada",NA,38348,"Paris Film",93
+"Mississippi Grind","R","Comedy",2015,"August 13, 2015 (United States)",6.4,22000,"Anna Boden","Anna Boden","Ben Mendelsohn","United States",6e+06,422746,"Sycamore Pictures",108
+"Drishyam","Not Rated","Crime",2015,"July 31, 2015 (United States)",8.2,75000,"Nishikant Kamat","Jeethu Joseph","Ajay Devgn","India",9400000,NA,"Panorama Studios",163
+"Attack on Titan Part 1","Not Rated","Action",2015,"August 1, 2015 (Japan)",5,13000,"Shinji Higuchi","Hajime Isayama","Haruma Miura","Japan",NA,30810658,"Kôdansha",98
+"Woman in Gold","PG-13","Biography",2015,"April 10, 2015 (United States)",7.3,56000,"Simon Curtis","Alexi Kaye Campbell","Helen Mirren","United Kingdom",1.1e+07,61619773,"Origin Pictures",109
+"Eddie the Eagle","PG-13","Biography",2015,"February 26, 2016 (United States)",7.4,88000,"Dexter Fletcher","Simon Kelton","Taron Egerton","United Kingdom",2.3e+07,46152800,"Hurwitz Creative",106
+"Eye in the Sky","R","Action",2015,"April 1, 2016 (United States)",7.3,81000,"Gavin Hood","Guy Hibbert","Helen Mirren","United Kingdom",1.3e+07,35259653,"Raindog Films",102
+"The Second Best Exotic Marigold Hotel","PG","Comedy",2015,"March 6, 2015 (United States)",6.6,32000,"John Madden","Ol Parker","Judi Dench","United Kingdom",1e+07,85978292,"Blueprint Pictures",122
+"Tumbledown","R","Comedy",2015,"February 5, 2016 (United States)",6.2,6800,"Sean Mewshaw","Sean Mewshaw","Rebecca Hall","United States",NA,282083,"BRON Studios",105
+"Poltergeist","PG-13","Horror",2015,"May 22, 2015 (United States)",4.9,56000,"Gil Kenan","David Lindsay-Abaire","Sam Rockwell","United States",3.5e+07,95437994,"Fox 2000 Pictures",93
+"The Meddler","PG-13","Comedy",2015,"June 3, 2016 (Spain)",6.3,12000,"Lorene Scafaria","Lorene Scafaria","Susan Sarandon","United States",3200000,5425148,"Anonymous Content",103
+"We Are Your Friends","R","Drama",2015,"August 28, 2015 (United States)",6.2,37000,"Max Joseph","Max Joseph","Zac Efron","United Kingdom",2e+06,11122090,"StudioCanal",96
+"Into the Forest","R","Drama",2015,"July 29, 2016 (United States)",5.8,20000,"Patricia Rozema","Patricia Rozema","Elliot Page","Canada",NA,92166,"Rhombus Media",101
+"Grandma","R","Comedy",2015,"September 18, 2015 (United States)",6.7,15000,"Paul Weitz","Paul Weitz","Lily Tomlin","United States",6e+05,7205073,"Depth of Field",79
+"Bajirao Mastani","Not Rated","Action",2015,"December 18, 2015 (United States)",7.3,32000,"Sanjay Leela Bhansali","Nagnath S. Inamdar","Ranveer Singh","India",NA,11350917,"Bhansali Productions",158
+"By the Sea","R","Drama",2015,"December 9, 2015 (France)",5.3,19000,"Angelina Jolie","Angelina Jolie","Brad Pitt","France",1e+07,3334927,"Universal Pictures",122
+"Mortdecai","R","Action",2015,"January 23, 2015 (United States)",5.5,69000,"David Koepp","Eric Aronson","Johnny Depp","United Kingdom",6e+07,47275717,"MWM Studios",107
+"I'll See You in My Dreams","PG-13","Comedy",2015,"May 15, 2015 (United States)",6.7,7100,"Brett Haley","Brett Haley","Blythe Danner","United States",NA,7452512,"Two Flints",92
+"Maggie","PG-13","Drama",2015,"May 8, 2015 (United States)",5.6,43000,"Henry Hobson","John Scott 3","Arnold Schwarzenegger","United States",NA,1663165,"Lionsgate",95
+"Project Almanac","PG-13","Drama",2015,"January 30, 2015 (United States)",6.4,77000,"Dean Israelite","Jason Pagan","Amy Landecker","United States",1.2e+07,33213241,"Insurge Pictures",106
+"Regression","R","Crime",2015,"October 2, 2015 (Spain)",5.7,38000,"Alejandro Amenábar","Alejandro Amenábar","Ethan Hawke","Spain",NA,17671101,"Mod Producciones",106
+"True Story","R","Biography",2015,"April 17, 2015 (United States)",6.3,65000,"Rupert Goold","Rupert Goold","James Franco","United States",NA,5261595,"New Regency Productions",99
+"The Man Who Knew Infinity","PG-13","Biography",2015,"April 29, 2016 (United States)",7.2,53000,"Matt Brown","Matt Brown","Dev Patel","United Kingdom",1e+07,12252684,"Pressman Film",108
+"The Transporter Refueled","PG-13","Action",2015,"September 4, 2015 (United States)",5.2,40000,"Camille Delamarre","Adam Cooper","Ed Skrein","France",NA,72629670,"EuropaCorp",96
+"Z for Zachariah","PG-13","Drama",2015,"August 13, 2015 (Denmark)",6,29000,"Craig Zobel","Nissar Modi","Chiwetel Ejiofor","Iceland",7500000,381839,"Silver Reel",98
+"Equals","PG-13","Drama",2015,"May 26, 2016 (United States)",6.1,29000,"Drake Doremus","Nathan Parker","Nicholas Hoult","United States",1.6e+07,2084628,"Freedom Media",101
+"Dope","R","Adventure",2015,"June 19, 2015 (United States)",7.2,82000,"Rick Famuyiwa","Rick Famuyiwa","Shameik Moore","United States",7e+06,17986781,"i am OTHER",103
+"Land of Mine","R","Drama",2015,"December 3, 2015 (Denmark)",7.8,38000,"Martin Zandvliet","Martin Zandvliet","Roland Møller","Denmark",NA,3169553,"Nordisk Film",100
+"Hot Pursuit","PG-13","Action",2015,"May 8, 2015 (United States)",5.2,49000,"Anne Fletcher","David Feeney","Reese Witherspoon","United States",3.5e+07,51380201,"Metro-Goldwyn-Mayer (MGM)",87
+"Krampus","PG-13","Comedy",2015,"December 4, 2015 (United States)",6.2,66000,"Michael Dougherty","Todd Casey","Adam Scott","United States",1.5e+07,61548707,"Legendary Entertainment",98
+"Bajrangi Bhaijaan","Not Rated","Action",2015,"July 17, 2015 (United States)",8,79000,"Kabir Khan","Vijayendra Prasad","Salman Khan","India",NA,121126188,"Eros Worldwide",163
+"The Lure","Not Rated","Drama",2015,"December 25, 2015 (Poland)",6.3,7200,"Agnieszka Smoczynska","Robert Bolesto","Marta Mazurek","Poland",NA,108846,"Wytwórnia Filmów Dokumentalnych i Fabularnych (WFDiF)",92
+"The Gunman","R","Action",2015,"March 20, 2015 (United States)",5.8,40000,"Pierre Morel","Jean-Patrick Manchette","Sean Penn","United States",4e+07,24177137,"Open Road Films (II)",115
+"The Night Before","R","Comedy",2015,"November 20, 2015 (United States)",6.4,68000,"Jonathan Levine","Jonathan Levine","Joseph Gordon-Levitt","United States",2.5e+07,52395996,"Columbia Pictures",101
+"90 Minutes in Heaven","PG-13","Drama",2015,"September 11, 2015 (United States)",4.8,3500,"Michael Polish","Michael Polish","Kate Bosworth","United States",5e+06,4842699,"Astute Films",121
+"Tale of Tales","R","Drama",2015,"April 22, 2016 (United States)",6.4,27000,"Matteo Garrone","Edoardo Albinati","Salma Hayek","Italy",NA,5497104,"Archimede",134
+"Ip Man 3","PG-13","Action",2015,"December 24, 2015 (Hong Kong)",7.1,51000,"Wilson Yip","Tai-lee Chan","Donnie Yen","China",3.6e+07,157029618,"Golden Harvest Company",105
+"McFarland, USA","PG","Biography",2015,"February 20, 2015 (United States)",7.4,36000,"Niki Caro","Christopher Cleveland","Kevin Costner","United States",1.7e+07,45710059,"Mayhem Pictures",129
+"Strange Magic","PG","Animation",2015,"January 23, 2015 (United States)",5.8,10000,"Gary Rydstrom","David Berenbaum","Evan Rachel Wood","United States",NA,13603453,"Buena Vista Negative Cutting",99
+"The Peanuts Movie","G","Animation",2015,"November 6, 2015 (United States)",7.1,43000,"Steve Martino","Craig Schulz","Noah Schnapp","United States",9.9e+07,246233113,"Twentieth Century Fox Animation",88
+"Rock the Kasbah","R","Comedy",2015,"October 23, 2015 (United States)",5.5,11000,"Barry Levinson","Mitch Glazer","Bill Murray","United States",1.5e+07,3394174,"Covert Media",106
+"The Sea of Trees","PG-13","Drama",2015,"August 26, 2016 (United States)",6.1,15000,"Gus Van Sant","Chris Sparling","Matthew McConaughey","United States",2.5e+07,906995,"Bloom",110
+"Alvin and the Chipmunks: The Road Chip","PG","Animation",2015,"December 18, 2015 (United States)",5,18000,"Walt Becker","Ross Bagdasarian","Jason Lee","United States",9e+07,234798636,"Fox 2000 Pictures",92
+"The Lazarus Effect","PG-13","Horror",2015,"February 27, 2015 (United States)",5.2,42000,"David Gelb","Luke Dawson","Olivia Wilde","United States",3300000,38356892,"Blumhouse Productions",83
+"Love the Coopers","PG-13","Comedy",2015,"November 13, 2015 (United States)",5.8,22000,"Jessie Nelson","Steven Rogers","Steve Martin","United States",1.7e+07,42426912,"CBS Films",107
+"The 33","PG-13","Biography",2015,"November 13, 2015 (United States)",6.9,37000,"Patricia Riggen","Mikko Alanne","Antonio Banderas","Chile",2.6e+07,27972023,"Alcon Entertainment",127
+"The Little Prince","PG","Animation",2015,"August 5, 2016 (United States)",7.7,58000,"Mark Osborne","Irena Brignull","Jeff Bridges","France",81200000,97571250,"Onyx Films",108
+"Louder Than Bombs","R","Drama",2015,"October 2, 2015 (Norway)",6.6,12000,"Joachim Trier","Joachim Trier","Jesse Eisenberg","Norway",1.1e+07,1160724,"Motlys",109
+"The Gallows","R","Horror",2015,"July 10, 2015 (United States)",4.3,20000,"Travis Cluff","Chris Lofing","Reese Mishler","United States",1e+05,42964410,"New Line Cinema",81
+"The Ones Below","R","Drama",2015,"May 27, 2016 (United States)",6.1,9700,"David Farr","David Farr","Clémence Poésy","United Kingdom",NA,121827,"Cuba Pictures",87
+"Southbound","R","Horror",2015,"February 9, 2016 (United States)",5.9,17000,"Directors","Matt Bettinelli-Olpin","Chad Villella","United States",NA,35275,"Soapbox Films",89
+"Men & Chicken","Not Rated","Comedy",2015,"February 5, 2015 (Denmark)",6.7,11000,"Anders Thomas Jensen","Anders Thomas Jensen","David Dencik","Denmark",NA,4765472,"M&M Productions",104
+"Hyena Road","R","Action",2015,"October 9, 2015 (Canada)",6.5,7300,"Paul Gross","Paul Gross","Rossif Sutherland","Canada",NA,87768,"Rhombus Media",120
+"Slow West","R","Action",2015,"April 16, 2015 (United States)",6.9,44000,"John Maclean","John Maclean","Kodi Smit-McPhee","United Kingdom",2e+06,1295574,"Film4",84
+"The End of the Tour","R","Biography",2015,"November 12, 2015 (Brazil)",7.3,29000,"James Ponsoldt","Donald Margulies","Jason Segel","United States",NA,3072991,"Modern Man Films",106
+"Cop Car","R","Crime",2015,"August 7, 2015 (United States)",6.3,31000,"Jon Watts","Jon Watts","Kevin Bacon","United States",8e+05,143658,"Audax Films",88
+"The Daughter","","Drama",2015,"January 27, 2017 (United States)",6.6,4900,"Simon Stone","Simon Stone","Geoffrey Rush","Australia",NA,1505434,"Screen NSW",96
+"Jem and the Holograms","PG","Adventure",2015,"October 23, 2015 (United States)",4.2,7500,"Jon M. Chu","Ryan Landels","Aubrey Peeples","United States",5e+06,2333684,"Allspark Pictures",118
+"Cemetery of Splendor","Unrated","Drama",2015,"September 2, 2015 (France)",6.8,4400,"Apichatpong Weerasethakul","Apichatpong Weerasethakul","Jenjira Pongpas","Thailand",NA,98932,"Kick the Machine",122
+"Captive","PG-13","Action",2015,"September 18, 2015 (United States)",5.4,6500,"Jerry Jameson","Brian Bird","Kate Mara","United States",2e+06,2801508,"BN Films",97
+"Our Brand Is Crisis","R","Comedy",2015,"October 30, 2015 (United States)",6.1,21000,"David Gordon Green","Rachel Boynton","Sandra Bullock","United States",2.8e+07,8527658,"Fortis Films",107
+"Unfinished Business","R","Comedy",2015,"March 6, 2015 (United States)",5.4,33000,"Ken Scott","Steve Conrad","Vince Vaughn","United States",3.5e+07,14431253,"New Regency Productions",91
+"Hot Tub Time Machine 2","R","Comedy",2015,"February 20, 2015 (United States)",5.1,38000,"Steve Pink","Josh Heald","Rob Corddry","United States",1.4e+07,13081651,"Paramount Pictures",93
+"Turbo Kid","Not Rated","Action",2015,"August 28, 2015 (United States)",6.7,27000,"François Simard","Anouk Whissell","Munro Chambers","Canada",NA,67069,"EMA Films",93
+"The Overnight","R","Comedy",2015,"June 19, 2015 (United States)",6.1,16000,"Patrick Brice","Patrick Brice","Adam Scott","United States",NA,1110522,"Duplass Brothers Productions",79
+"Hello, My Name Is Doris","R","Comedy",2015,"April 1, 2016 (United States)",6.6,19000,"Michael Showalter","Laura Terruso","Sally Field","United States",1e+06,14659448,"Red Crown Productions",90
+"Ricki and the Flash","PG-13","Comedy",2015,"August 7, 2015 (United States)",5.9,23000,"Jonathan Demme","Diablo Cody","Meryl Streep","United States",1.8e+07,41325328,"Clinica Estetico",101
+"Danny Collins","R","Biography",2015,"April 10, 2015 (United States)",7,30000,"Dan Fogelman","Dan Fogelman","Al Pacino","United States",1e+07,10835752,"Big Indie Pictures",106
+"Son of Saul","R","Drama",2015,"June 11, 2015 (Hungary)",7.5,46000,"László Nemes","László Nemes","Géza Röhrig","Hungary",NA,6659121,"Laokoon Filmgroup",107
+"Mr. Holmes","PG","Drama",2015,"July 24, 2015 (United States)",6.9,62000,"Bill Condon","Mitch Cullin","Ian McKellen","United Kingdom",1.1e+07,29355203,"Miramax",104
+"Empire of Lust","","Action",2015,"March 5, 2015 (South Korea)",6,465,"Sang-hoon Ahn","Se-hee Kim","Shin Ha-kyun","South Korea",NA,3191168,"Fineworks",113
+"Paul Blart: Mall Cop 2","PG","Action",2015,"April 17, 2015 (United States)",4.4,35000,"Andy Fickman","Kevin James","Kevin James","United States",3e+07,107588225,"Columbia Pictures",94
+"Remember","R","Drama",2015,"December 17, 2015 (United States)",7.5,24000,"Atom Egoyan","Benjamin August","Christopher Plummer","Canada",NA,4235959,"Serendipity Point Films",94
+"War Room","PG","Drama",2015,"August 28, 2015 (United States)",6.5,14000,"Alex Kendrick","Alex Kendrick","Priscilla C. Shirer","United States",3e+06,73256266,"FaithStep Films",120
+"Dragon Blade","R","Action",2015,"September 4, 2015 (United States)",6,19000,"Daniel Lee","Daniel Lee","Jackie Chan","China",6.5e+07,122606884,"Sparkle Roll Media",127
+"45 Years","R","Drama",2015,"August 28, 2015 (United Kingdom)",7.1,32000,"Andrew Haigh","Andrew Haigh","Charlotte Rampling","United Kingdom",NA,14430249,"BFI Film Fund",91
